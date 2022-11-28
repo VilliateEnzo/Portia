@@ -1,0 +1,14 @@
+C:\Users\villi\RiderProjects\Portfolio\Portfolio.Dal\bin\Debug\net7.0\Portfolio.Dal.deps.json
+C:\Users\villi\RiderProjects\Portfolio\Portfolio.Dal\bin\Debug\net7.0\Portfolio.Dal.runtimeconfig.json
+C:\Users\villi\RiderProjects\Portfolio\Portfolio.Dal\bin\Debug\net7.0\Portfolio.Dal.dll
+C:\Users\villi\RiderProjects\Portfolio\Portfolio.Dal\bin\Debug\net7.0\Portfolio.Dal.pdb
+C:\Users\villi\RiderProjects\Portfolio\Portfolio.Dal\obj\Debug\net7.0\Portfolio.Dal.csproj.AssemblyReference.cache
+C:\Users\villi\RiderProjects\Portfolio\Portfolio.Dal\obj\Debug\net7.0\Portfolio.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\villi\RiderProjects\Portfolio\Portfolio.Dal\obj\Debug\net7.0\Portfolio.Dal.AssemblyInfoInputs.cache
+C:\Users\villi\RiderProjects\Portfolio\Portfolio.Dal\obj\Debug\net7.0\Portfolio.Dal.AssemblyInfo.cs
+C:\Users\villi\RiderProjects\Portfolio\Portfolio.Dal\obj\Debug\net7.0\Portfolio.Dal.csproj.CoreCompileInputs.cache
+C:\Users\villi\RiderProjects\Portfolio\Portfolio.Dal\obj\Debug\net7.0\Portfolio.Dal.dll
+C:\Users\villi\RiderProjects\Portfolio\Portfolio.Dal\obj\Debug\net7.0\refint\Portfolio.Dal.dll
+C:\Users\villi\RiderProjects\Portfolio\Portfolio.Dal\obj\Debug\net7.0\Portfolio.Dal.pdb
+C:\Users\villi\RiderProjects\Portfolio\Portfolio.Dal\obj\Debug\net7.0\Portfolio.Dal.genruntimeconfig.cache
+C:\Users\villi\RiderProjects\Portfolio\Portfolio.Dal\obj\Debug\net7.0\ref\Portfolio.Dal.dll
